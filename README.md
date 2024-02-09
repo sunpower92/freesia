@@ -13,3 +13,5 @@ X account
 https://twitter.com/freesia_vj
 
 Donate
+bitcoin:bc1q85uxd6qsjpjj8qs4sph26lu406s53lwn4msf9m
+monacoin:mona1qx48fezjx6mjsnme2mm9dvgcnrgps87es8wj34a
