@@ -1,4 +1,0 @@
-20231226_thanks
-
-NanoKontrol2GUI
-https://github.com/kodai100/TD_NanoKontrol2
