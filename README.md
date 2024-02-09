@@ -3,9 +3,9 @@ FREESIA is free (no payment required) VJ plugin for TouchDesigner.
 If you are new to VJing, and want to try it, **FREESIA will give you POWER**.  
 
 # DOWNLOAD LATEST
-### Main release
+### Main release (beta)
 https://github.com/sunpower92/freesia/tree/55f5bebd5673dd3343e849588c69f4357d1220a4/v0.1.4
-##### Lightweight release (beta)
+##### Lightweight release (alfa)
 https://github.com/sunpower92/freesia/tree/9317039f4c60b397a027b853ec57a5b2521dfe9f/v0.2.0
 
 # HOW TO USE
