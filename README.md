@@ -4,7 +4,7 @@ If you are new to VJing, and want to try it, **FREESIA will give you POWER**.
 
 # DOWNLOAD LATEST
 ### Main release (beta)
-https://github.com/sunpower92/freesia/tree/eae27843b695537705d2693279755584555dee9d/v0.1.5
+v0.1.5
 
 # HOW TO USE
 ### 0. Get your "nanoKONTROL2"
