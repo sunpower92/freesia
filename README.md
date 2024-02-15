@@ -21,7 +21,9 @@ If you are new to VJing, and want to try it, **FREESIA will give you POWER**.
 https://twitter.com/freesia_vj  
 
 # DONATE
-### BITCOIN
+### Bitcoin
 bc1q85uxd6qsjpjj8qs4sph26lu406s53lwn4msf9m  
-### MONACOIN
+### Monacoin
 mona1qx48fezjx6mjsnme2mm9dvgcnrgps87es8wj34a  
+### Amazon
+https://www.amazon.jp/hz/wishlist/ls/UMPKNJZO4YDK
