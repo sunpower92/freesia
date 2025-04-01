@@ -15,6 +15,7 @@ If you are new to VJing, and want to try it, **FREESIA will give you POWER**.
 ### 2. Install and activate
    https://scottallen.ws/iamas/de2021_0_install
 ### 3. Open "FREESIA.toe"
+[How to use(日本語)](MANUAL)
 
 # CONTACT
 ### X account
