@@ -9,10 +9,10 @@ If you are new to VJing, and want to try it, **FREESIA will give you POWER**.
 [v0.2.2-SMC](v0.2.2-SMC)
 
 # HOW TO USE
-### 0. Get your "nanoKONTROL2" or "SMC-Mixer"
+### 0. Get your "nanoKONTROL2" or "SMC-Mixer" 
   [Read this to choose](BLOG/20250524_MIDIコンの選択について.md)
-   https://www.korg.com/jp/products/computergear/nanokontrol2/
-   https://www.cuvave.com/productinfo/1106102.html
+   https://www.korg.com/jp/products/computergear/nanokontrol2/ 
+   https://www.cuvave.com/productinfo/1106102.html 
    or remap MIDI assign of FREESIA for your favorite controllers by yourself after step 3
 ### 1. Download "TouchDesigner"
    https://derivative.ca/
