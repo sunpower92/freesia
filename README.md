@@ -10,7 +10,7 @@ If you are new to VJing, and want to try it, **FREESIA will give you POWER**.
 
 # HOW TO USE
 ### 0. Get your "nanoKONTROL2" or "SMC-Mixer" 
-   ### [Read this to choose(日本語)](BLOG/20250524_MIDIコンの選択について.md)
+   #### [Read this blog to choose(日本語)](BLOG/20250524_MIDIコンの選択について.md)
    
    https://www.korg.com/jp/products/computergear/nanokontrol2/ 
    
